@@ -1,0 +1,46 @@
+$global-font-family: Helvetica, Arial, sans-serif;
+$global-loading-icon: url(images/ajax-loader.gif);
+
+/* Radii */
+$global-radii-blocks: .6em;
+$global-radii-buttons: 1em;
+
+
+/* Box Shadow */
+$global-box-shadow-size: 3px;
+$global-box-shadow-hex: #000000;
+$global-box-shadow-opacity: .2;
+$global-box-shadow-color: rgba($global-box-shadow-hex, $global-box-shadow-opacity);
+
+/* Icons */
+$global-icon-color: #666666;
+$global-icon-opacity: .4;
+$global-icon-disc: rgba($global-icon-color, $global-icon-opacity);
+$global-icon-set: url(images/icons-18-white.png);
+$global-icon-retina: url(images/icons-36-white.png);
+$global-icon-shadow: rgba(255,255,255,.4);
+
+	/* Icons Alt */
+	$global-icon-color-alt: #666666;
+	$global-icon-opacity-alt: .3;
+	$global-icon-disc-alt: rgba($global-icon-color-alt, $global-icon-opacity-alt);
+	$global-icon-set-alt: url(images/icons-18-black.png);
+	$global-icon-retina-alt: url(images/icons-36-black.png);
+
+/* Active */
+$global-active-color: #ffffff;
+$global-active-border: #2373a5;
+$global-active-background-color: #387bbe;
+
+	/* Active Shadow */
+	$global-active-shadow-x: 0;
+	$global-active-shadow-y: 1px;
+	$global-active-shadow-radius: 0;
+	$global-active-shadow-color: #3373a5;
+	
+	/* Active Background */
+		
+		/* Active Background Gradient */
+		$global-active-background-start: #5393c5;
+		$global-active-background-end: #6facd5;
+	
